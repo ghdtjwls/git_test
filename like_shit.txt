@@ -1,9 +1,5 @@
 I like shit
 you like shit
 we like shit
-<<<<<<< HEAD
-kane choigo
-=======
 kanechoigo
 Dr. wheel
->>>>>>> igonan
